@@ -17,3 +17,4 @@ Returns device models list (eg: ["iPad Air 2", "iPad Mini 4"]).
 
 1. Android Devices :)
 
+判断iphone手机型号
